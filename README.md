@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ChandraRoy4214
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ChandraRoy
+- 👀 I’m interested in Software Development
+- 👀 Currently building an Amazing web App
+- 🌱 I’m currently learning Data Structutes and Algorithms
+- 💞️ I’m looking to ace my coding interview
 
 <!---
 ChandraRoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
