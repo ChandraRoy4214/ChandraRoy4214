@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChandraRoy
 - 👀 I’m interested in Software Development
 - 👀 Currently building an Amazing web App
+- 🌱 Currently working as a Full time Intern in Matchday.ai
 - 🌱 I’m currently learning Data Structutes and Algorithms
-- 💞️ I’m looking to ace my coding interview
 
 <!---
 ChandraRoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
