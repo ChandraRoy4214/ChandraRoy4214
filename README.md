@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChandraRoy
 - 👀 I’m interested in Software Development
 - 👀 Part of building a revolutionising tech in the field of sports.
-- 🌱 Currently working as a Full time Developer in Matchday.ai
+- 🌱 Currently working as a Full time Developer in Game Theory.
 
 <!---
 ChandraRoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
